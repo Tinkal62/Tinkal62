@@ -81,27 +81,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tinkal62&theme=dark&show_icons=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinkal62&layout=compact&theme=dark" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Tinkal62&theme=dark"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tinkal62&theme=neon&row=1&column=7"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Tinkal62&icon=0&color=0"/>
-</p>
