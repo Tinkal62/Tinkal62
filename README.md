@@ -8,7 +8,7 @@
     Hello 👋, I'm <b>Tinkal Das</b>
   </h2>
   <h3 align="left">
-    A passionate Full-Stack Web Developer & Robotics Enthusiast from India 🇮🇳
+    A passionate Full-Stack Web Developer & Robotics Enthusiast from India
   </h3>
 </div>
 
