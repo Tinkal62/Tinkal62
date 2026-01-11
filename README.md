@@ -7,10 +7,11 @@
   </h3>
   <img
     align="right" 
-    src="https://res.cloudinary.com/dpurdbgrx/image/upload/v1768114074/bb135e70-0c1c-40e6-9d0e-6112b32b9f14_removalai_preview_kklbsn.png"
+    src="[https://res.cloudinary.com/dpurdbgrx/image/upload/v1768114074/bb135e70-0c1c-40e6-9d0e-6112b32b9f14_removalai_preview_kklbsn.png](https://res.cloudinary.com/dpurdbgrx/image/upload/v1768115366/ccc0290b-52a1-4fb6-a037-5e0b9e092e05_removalai_preview_wmasdn.png)"
     width="170"
     height="190"
-    radius="50">
+    radius="50"
+    style="border-radius: 50%; object-fit: cover;">
 </div>
 
 <p align="left">
