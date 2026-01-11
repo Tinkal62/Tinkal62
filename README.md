@@ -3,7 +3,8 @@
     align="right" 
     src="https://res.cloudinary.com/dpurdbgrx/image/upload/v1768114074/bb135e70-0c1c-40e6-9d0e-6112b32b9f14_removalai_preview_kklbsn.png"
     width="170"
-    height="190">
+    height="190"
+    z-index = "10">
   <h2>
     Hello 👋, I'm <b>Tinkal Das</b>
   </h2>
