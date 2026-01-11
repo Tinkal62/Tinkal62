@@ -11,7 +11,7 @@
     width="170"
     height="190"
     radius="50"
-     style="border-radius: 50%; object-fit: cover;">
+    style="border-radius:9999px">
 </div>
 
 <p align="left">
