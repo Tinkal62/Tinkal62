@@ -1,7 +1,6 @@
 <h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hello 👋, I'm <b>Tinkal Das</b>
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+  <img src="https://res.cloudinary.com/dpurdbgrx/image/upload/v1768114074/bb135e70-0c1c-40e6-9d0e-6112b32b9f14_removalai_preview_kklbsn.png" width="50">
 </h2>
 
 <h3 align="center">
