@@ -7,7 +7,7 @@
   </h3>
   <img
     align="right" 
-    src="https://res.cloudinary.com/dpurdbgrx/image/upload/v1768115366/ccc0290b-52a1-4fb6-a037-5e0b9e092e05_removalai_preview_wmasdn.png"
+    src="https://res.cloudinary.com/dpurdbgrx/image/upload/v1768116280/Untitled_design_zuit1w.png"
     width="170"
     height="190"
     radius="50"
