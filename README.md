@@ -1,18 +1,18 @@
-<h2>
-  Hello 👋, I'm <b>Tinkal Das</b>
-  <img src="https://res.cloudinary.com/dpurdbgrx/image/upload/v1768114074/bb135e70-0c1c-40e6-9d0e-6112b32b9f14_removalai_preview_kklbsn.png" width="50">
-</h2>
-
-<h3 align="center">
-  A passionate Full-Stack Web Developer & Robotics Enthusiast from India 🇮🇳
-</h3>
+<div align= "left">
+  <img
+    align="right" 
+    src="https://res.cloudinary.com/dpurdbgrx/image/upload/v1768114074/bb135e70-0c1c-40e6-9d0e-6112b32b9f14_removalai_preview_kklbsn.png"
+    width="170"
+    height="190">
+  <h2>
+    Hello 👋, I'm <b>Tinkal Das</b>
+  </h2>
+  <h3 align="left">
+    A passionate Full-Stack Web Developer & Robotics Enthusiast from India 🇮🇳
+  </h3>
+</div>
 
 <p align="left">
-  <img align="right"
-       src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-       width="170"
-       height="190" />
-
   From crafting responsive websites using <b>HTML, CSS, JavaScript, Node.js, and MongoDB</b>
   to experimenting with <b>Arduino and ESP32-based robotics projects</b>,
   I enjoy blending software with creativity.
